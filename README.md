@@ -17,4 +17,8 @@ Using the data that you receive from this GET request `https://lightninglaw.azur
 
 Your code will be evaluated by both the CTO and lead Frontend developer. After a thourough review, you may be asked to return for a follow up interview to discuss your process and implementation. 
 
+## Wireframe
+
+![Wireframe](assets/wineWF2.PNG)
+
 
