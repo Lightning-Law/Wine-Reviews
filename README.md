@@ -1,9 +1,9 @@
 # Overview
 
-1. Spend no more than 3.0 hours on this assessment. We are evaluating both the skill level of building a web app in addition to the quality within a tight timeline. Complete as much as you can within the allotted time. 
+1. Spend no more than 4.0 hours on this assessment. We are evaluating both the skill level of building a web app in addition to the quality within a tight timeline. Complete as much as you can within the allotted time. 
 2. Commit often to track progress. Keep commit messages informative.
 3. Make an initial commit of an empty file with your name and start time commented on the top to start the time. 
-3. Publish your code to GitHub and publish your final app to GH Pages
+3. Publish your code to GitHub and publish your final app to GH Pages (or if you prefer to another host)
 
 ## Requirements
 
