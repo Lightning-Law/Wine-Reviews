@@ -23,4 +23,4 @@ Your code will be evaluated by both the CTO and lead Frontend developer. After a
 
 ## Wireframe
 
-![Wireframe](assets/wineWF2.PNG)
+![Wireframe](assets/wireframe.png)
